@@ -28,12 +28,12 @@ english = ["a","b","d","g"]
 
 # sort 함수는 숫자는 크기순, 한글과 영어는 사전 순으로 정리한다
 
-#num.sort()
-#korean.sort()
-#english.sort()
-#print(num)
-#print(korean)
-#print(english)
+num.sort()
+korean.sort()
+english.sort()
+print(num)
+print(korean)
+print(english)
 
 
 # reverse 함수, 리스트 순서를 뒤집는 함수 (맨 뒤, 맨 앞 반대)
